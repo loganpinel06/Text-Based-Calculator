@@ -1,5 +1,5 @@
-#Calculator program takes the foundational code from my CSC101 courses Program 5
-#to create a text based calculator and create a UI for a functional calculator
+#Calculator program takes the foundational code from my CSC101 courses advanced Program 5
+#to create a text based calculator.
 #Logan Pinel
 #October 25, 2024
 
