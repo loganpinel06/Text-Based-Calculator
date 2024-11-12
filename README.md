@@ -6,6 +6,6 @@ Additionally to Python, I also coded this in Golang to practice learning the fun
 
 What I Learned:
 - How to use Python dictionaries
-- How to code the orders of operations in Pythob
-- How to parse through strings affectively
+- How to code the orders of operations in Python
+- How to parse through strings effectively
 - The basics of Golang and its syntax
